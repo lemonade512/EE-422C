@@ -10,5 +10,7 @@ package assignment1;
 public class A1Driver {
 	public static void main(String[] args) {
 		System.out.println("Hello");
+		InputParser inputParser = new InputParser();
+		// Use scanner to parse input from input.txt
 	}
 }
