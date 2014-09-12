@@ -1,3 +1,11 @@
+/**
+ * Class to find palindromes in input text. Solves EE422C programming assignment #1
+ * Student Name: Phillip Lemons, Lab Section: 16830
+ * 
+ * @author Phillip Lemons
+ * @version 1.0 2010-08-15
+ */
+
 package Assignment1;
 
 import java.io.BufferedReader;
@@ -7,13 +15,6 @@ import java.io.IOException;
 import java.util.Iterator;
 import java.util.TreeSet;
 
-/**
- * Class to find palindromes in input text. Solves EE422C programming assignment #1
- * Student Name: Phillip Lemons, Lab Section: 16830
- * 
- * @author Phillip Lemons
- * @version 1.0 2010-08-15
- */
 
 public class A1Driver
 {
